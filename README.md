@@ -11,3 +11,5 @@ ENG: A small simulator of a (fictional) OS from the mid-80s
 # system-16
 RUS: копия system-8 на python
 ENG: a Python-based replica of System-8
+
+license MPL 2.0
